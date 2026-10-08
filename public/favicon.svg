@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="energy" x1=".12" y1=".2" x2=".88" y2=".8">
+      <stop offset="0" stop-color="#19e7ff" />
+      <stop offset=".52" stop-color="#258dff" />
+      <stop offset="1" stop-color="#c044ff" />
+    </linearGradient>
+  </defs>
+  <rect x="26" y="26" width="460" height="460" rx="118" fill="#070c1c" stroke="#182f4e" stroke-width="4" />
+  <path d="M263 486 486 263v105L368 486z" fill="#0c1230" />
+  <g fill="none" stroke-linecap="butt" stroke-width="17">
+    <path d="M141 177a148 148 0 0 1 234-31" stroke="#19e1ff" />
+    <path d="M371 335a148 148 0 0 1-230 37" stroke="#b253ff" />
+    <path d="M371 177a148 148 0 0 1 31 37" stroke="#b253ff" />
+    <path d="M141 335a148 148 0 0 1-3-20" stroke="#258dff" />
+  </g>
+  <g stroke="url(#energy)" stroke-width="10" stroke-linecap="square">
+    <path d="M256 111v28M256 373v28M111 256h28M373 256h28" />
+  </g>
+  <path d="m45 208 91-31-31 29-60 9zm13 84 79-19-28 25-51 2z" fill="url(#energy)" />
+  <path d="m256 168 88 88-88 88-88-88z" fill="#19e4ff" />
+  <path d="m256 194 62 62-62 62-62-62z" fill="#0a1f3d" />
+  <path d="m256 218 38 38-38 38-38-38z" fill="#edffff" />
+  <circle cx="256" cy="256" r="18" fill="#07101f" />
+  <circle cx="256" cy="256" r="10" fill="#19eeff" />
+</svg>
